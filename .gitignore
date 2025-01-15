@@ -15,7 +15,14 @@ build
 # Jetbrains
 .idea
 
-# vscode
-.vscode
+# Docker Compose Environment File
+.env
 
 bin/air
+
+dev-dist
+
+dist
+
+# VSCode settings
+/.vscode
